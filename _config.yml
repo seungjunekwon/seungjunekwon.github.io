@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "SeungJune Kwon"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "microscope.png"
+  bio              : "PhD student working in Evolutionary Developmental Biology"
+  location         : "Kyushu university (2021~)"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
