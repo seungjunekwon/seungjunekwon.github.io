@@ -8,3 +8,5 @@ redirect_from:
   - /about.html
 ---
 ...(in construction)...
+
+![microscope](/images/microscope.jpg){: .align-right width="300px"}
