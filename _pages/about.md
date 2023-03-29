@@ -9,4 +9,4 @@ redirect_from:
 ---
 ...(in construction)...
 
-![microscope](/images/microscope.jpg){: .align-right width="300px"}
+![microscope](/images/profile_sjk.png){: .align-right width="300px"}
