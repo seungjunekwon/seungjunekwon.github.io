@@ -7,12 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-...(in construction)...
+
+
+...(un construction)...
+
+
 
 クォン　スンジュン
 権 昇俊
 권승준
 Seung June Kwon
+
 ORCID: https://orcid.org/0009-0009-6244-8402
 
 Current Project：胸骨形態の多様性を生む分子メカニズムの解明 (Mechanisms Underlying the Morphological Diversity of the Sternum)
