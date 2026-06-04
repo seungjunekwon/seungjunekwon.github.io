@@ -25,7 +25,7 @@ Interview (in Korean) with Biological Research Information Center (BRIC)<br>
 
 
 
-クォン　スンジュン
+クォン スンジュン
 権 昇俊
 권승준
 Seung June Kwon
