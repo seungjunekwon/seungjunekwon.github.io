@@ -11,18 +11,16 @@ redirect_from:
 
 ...(under construction)...
 
-email: udnjf251@gmail.com
+Email: udnjf251@gmail.com
 
-NEW paper published!
-
-[https://doi.org/10.1038/s41467-026-72602-6](https://doi.org/10.1038/s41467-026-72602-6)
+NEW paper published!<br>
+[https://doi.org/10.1038/s41467-026-72602-6](https://doi.org/10.1038/s41467-026-72602-6)<br>
 Kwon et al. Nature  Communications (2026)
 Heterochronic activation of TGF-β signaling drives the diversity of the avian sterna
 
 [Curriculum Vitae (2026.5.3)](https://seungjunekwon.github.io/files/Seung_June_Kwon_Curriculum_Vitae_260503.pdf)
 
-Interview (in Korean) with Biological Research Information Center (BRIC)
-
+Interview (in Korean) with Biological Research Information Center (BRIC)<br>
 [https://www.ibric.org/s.do?oUEuIZbHsq](https://www.ibric.org/s.do?oUEuIZbHsq)
 
 
@@ -33,8 +31,6 @@ Interview (in Korean) with Biological Research Information Center (BRIC)
 Seung June Kwon
 
 ORCID: [https://orcid.org/0009-0009-6244-8402](https://orcid.org/0009-0009-6244-8402)
-
-Current Project：胸骨形態の多様性を生む分子メカニズムの解明 (Mechanisms Underlying the Morphological Diversity of the Sternum)
 
 Master's thesis: Comparative Study of the Sternal Development between Flighted and Flightless Birds
 
