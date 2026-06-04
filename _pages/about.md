@@ -15,7 +15,7 @@ Email: udnjf251@gmail.com
 
 NEW paper published!<br>
 [https://doi.org/10.1038/s41467-026-72602-6](https://doi.org/10.1038/s41467-026-72602-6)<br>
-Kwon et al. Nature  Communications (2026)
+Kwon et al. Nature  Communications (2026)<br>
 Heterochronic activation of TGF-β signaling drives the diversity of the avian sterna
 
 [Curriculum Vitae (2026.5.3)](https://seungjunekwon.github.io/files/Seung_June_Kwon_Curriculum_Vitae_260503.pdf)
